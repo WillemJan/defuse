@@ -1,7 +1,7 @@
 import sys
 sys.path.insert(0, '../')
 from fs import FS
-import evalfs, simple
+import evalfs, thumbnail
 
 fs = FS.get()
 
